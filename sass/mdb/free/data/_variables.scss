@@ -1,5 +1,5 @@
 // Fonts Path
-$roboto-font-path: "../font/roboto/" !default;
+$roboto-font-path: "~mdbootstrap/font/roboto/" !default;
 
 // Full Palette
 $enable_full_palette: true;
@@ -132,7 +132,7 @@ $footer-insta-photos-max-width: 100px;
 $footer-insta-photos-margin: 4px;
 
 // Images Path
-$image-path: '../img/';
+$image-path: '~mdbootstrap/img/';
 
 // Reponsive Headings
 $responsive-headings: (
